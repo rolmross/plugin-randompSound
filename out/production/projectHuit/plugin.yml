@@ -1,0 +1,7 @@
+name: projectHuit
+main: fr.rolm.pack.tout
+version: 1.0
+commands:
+  rdmbruit:
+    description: commands pour faire un bruit alleatoire
+    usage: Erreur dans la commands.
